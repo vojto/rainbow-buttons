@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "lib": ["es2015", "dom"],
+    "target": "es5",
+    "module": "commonjs",
+    "baseUrl": "./src",
+    "outDir": "./dist",
+    "declaration": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "allowSyntheticDefaultImports": true,
+  }
+}
